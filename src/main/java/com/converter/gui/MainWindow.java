@@ -16,11 +16,10 @@ import java.util.List;
 
 public class MainWindow extends JFrame {
 
-    // === Color Palette ===
     private static final Color BG_DARK = new Color(18, 18, 24);
     private static final Color BG_CARD = new Color(28, 28, 40);
     private static final Color BG_LIST = new Color(22, 22, 32);
-    private static final Color ACCENT = new Color(99, 102, 241); // Indigo
+    private static final Color ACCENT = new Color(99, 102, 241);
     private static final Color ACCENT_HOVER = new Color(129, 132, 255);
     private static final Color DANGER = new Color(239, 68, 68);
     private static final Color DANGER_HOVER = new Color(255, 100, 100);
